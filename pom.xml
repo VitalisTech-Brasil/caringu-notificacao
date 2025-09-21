@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>tech.vitalis</groupId>
-	<artifactId>notificacoes-service</artifactId>
+	<artifactId>caringu-notificacao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>notificacao-service</name>
+	<name>caringu-notificacao</name>
 	<description>Projeto destinado a notificacoes do projeto CaringU</description>
 	<url/>
 	<licenses>
